@@ -1,6 +1,8 @@
 {
   "version": 2,
   "functions": {
-    "api/fbdl.js": { "runtime": "nodejs18.x" }
+    "api/fbdl.js": {
+      "runtime": "nodejs18.x"
+    }
   }
 }
