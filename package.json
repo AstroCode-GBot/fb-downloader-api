@@ -1,7 +1,5 @@
 {
   "name": "fb-downloader-api",
   "version": "1.0.0",
-  "type": "module",
-  "description": "Vercel native Facebook video downloader API (public videos).",
-  "main": "api/fbdl.js"
+  "type": "module"
 }
